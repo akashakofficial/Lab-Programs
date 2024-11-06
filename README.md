@@ -14,4 +14,3 @@ The primary purpose of this repository is to:
 
 - Document and keep track of the programs I’ve written.
 - Provide a quick reference to the solutions and concepts explored during my lab sessions.
-- Share code examples with peers or anyone interested in learning about the topics I have worked on.
